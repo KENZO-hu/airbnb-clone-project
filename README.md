@@ -13,6 +13,25 @@ The Airbnb Clone Project is a comprehensive, full-stack web application that rep
 - Apply modern DevOps practices including CI/CD pipelines and containerization
 
 ### Tech Stack
+like this copy paste f technology stack
+
+## 🛠 Technology Stack
+
+| Technology         | Purpose                                                                 |
+|--------------------|-------------------------------------------------------------------------|
+| *React.js*       | Build modular and dynamic UI components                                 |
+| *Next.js*        | Enable server-side rendering and routing                                |
+| *TypeScript*     | Add type safety and scalability to JavaScript                          |
+| *Tailwind CSS*   | Utility-first CSS framework for clean design                            |
+| *Node.js*        | JavaScript runtime for backend development                              |
+| *Express.js*     | Build RESTful APIs and handle server-side logic                         |
+| *PostgreSQL*     | Relational database for managing structured data                        |
+| *GraphQL*        | Query language for APIs, improves client-side data fetching             |
+| *Docker*         | Containerization of application for consistent deployment               |
+| *GitHub Actions* | Continuous integration and deployment automation                        |
+| *Figma*          | Design tool for creating and analyzing UI/UX mockups                    |
+
+---
 - **Backend Framework**: Django (Python)
 - **Database**: PostgreSQL/MySQL
 - **API**: GraphQL for flexible data querying
